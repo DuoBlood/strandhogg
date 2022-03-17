@@ -23,6 +23,7 @@ This project demonstrates how `StrandHogg` task injection works.
 - https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en
 - https://developer.android.com/guide/components/activities/tasks-and-back-stack
 - https://medium.com/@iammert/android-launchmode-visualized-8843fc833dbe
+- https://medium.com/mobile-app-development-publication/the-risk-of-android-strandhogg-security-issue-and-how-it-can-be-mitigated-80d2ddb4af06
 
 ### Video:
 
