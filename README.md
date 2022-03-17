@@ -1,3 +1,5 @@
+# Works only on the API 28 and below  (Android 9)
+
 ## Android StrandHogg Task Injection POC
 
 This project demonstrates how `StrandHogg` task injection works.
