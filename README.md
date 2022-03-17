@@ -1,4 +1,4 @@
-# Works only on the API 28 and below  (Android 9)
+# Works only on the API 29 and below  (Android 10)
 
 ## Android StrandHogg Task Injection POC
 
